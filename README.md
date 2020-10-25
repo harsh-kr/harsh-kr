@@ -1,5 +1,4 @@
-### Hi there 👋 
-## I am Harsh
+### Hello World! Harsh here.
 
 A programmer, developer and Machine Learning/Artificial Intelligence enthusiast.
 <br/>Just 'migrated' from campus to corporate.<br/>
