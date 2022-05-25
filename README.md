@@ -1,7 +1,6 @@
 ### Hello World! Harsh here.
 
 A programmer, developer and Machine Learning/Artificial Intelligence enthusiast.
-<br/>Just 'migrated' from campus to corporate.<br/>
 
 • 💻 Working at Cognizant.<br/>
 • ✍️ Writing technical blogs over the internet.
