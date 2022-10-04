@@ -2,14 +2,14 @@
 
 A programmer, developer and Machine Learning/Artificial Intelligence enthusiast.
 
-• 💻 Working at Cognizant.<br/>
+• 💻 Working at GlobalLogic.<br/>
 • ✍️ Writing technical blogs over the internet.
 
 Technical proficiencies include:<br/>
-• Languages: Python, Java, C, SQL<br/>
-• Web Development: HTML, CSS, JavaScript, React.js<br/>
+• Languages: Java, Python, C, SQL<br/>
+• Web Development: HTML, CSS, JavaScript<br/>
 • Database: MySQL, SQLite<br/>
-• Framework(s): Django
+• Framework(s): Spring Framework, Spring Boot, JUnit
 
 • 🌏 Love to explore, be it places or new tools and emerging technologies.<br/>
 • 📷 Like to capture moments.<br/>
@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kr)
 <br/>Let's connect and make the world smaller. Reach me out on [LinkedIn](https://www.linkedin.com/in/harshkr/). ☕
